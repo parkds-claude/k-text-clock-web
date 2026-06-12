@@ -3,6 +3,6 @@
     "text_ko": "황혼이 바다가 되어",
     "display_source": "— 윤동주, 「황혼黃昏이 바다가 되어-窓」",
     "minute": "18:30",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

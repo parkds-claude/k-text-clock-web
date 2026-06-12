@@ -3,6 +3,6 @@
     "text_ko": "거리에는 오후 세 시의 뜨거운 태양이 불같이 내려쪼이고 있는데 한 대의 택시가 기운 좋게 가고 있었다.",
     "display_source": "— 백신애, 「정현수」",
     "minute": "15:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

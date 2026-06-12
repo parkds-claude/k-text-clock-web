@@ -3,6 +3,6 @@
     "text_ko": "어느덧 전등이 켜지고 황혼이 찾아든다. 모기의 소리는 방구석에 서 울리어 나온다 어둠이 .",
     "display_source": "— 이익상, 「구속의 첫날」",
     "minute": "18:30",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

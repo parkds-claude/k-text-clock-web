@@ -3,6 +3,6 @@
     "text_ko": "하고, 벽에//걸린 자명종은 오후 다섯시를 땅땅 치는데, 아랫목 몽고 요 위",
     "display_source": "— 이인직, 「치악산」",
     "minute": "17:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

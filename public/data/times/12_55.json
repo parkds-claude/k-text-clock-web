@@ -3,6 +3,6 @@
     "text_ko": "탄식의 바닷가의 모래밭이니 꼭 같은 열두 시만 늘 저무누나",
     "display_source": "— 김소월, 「고독」",
     "minute": "12:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

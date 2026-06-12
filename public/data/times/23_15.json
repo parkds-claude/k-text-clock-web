@@ -3,6 +3,6 @@
     "text_ko": "밤은 아홉시를 지나 열시에 들어간다. 죽으러 가려는 영옥 은 만사를 준비하게 되었다.",
     "display_source": "— 한용운, 「죽음」",
     "minute": "21:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

@@ -3,6 +3,6 @@
     "text_ko": "나는 일전 여러 해만에 그를 만나「황혼」을 아끼는 설야의 면면한 정회를 들은 하룻밤을 가졌다.",
     "display_source": "— 임화, 「한설야론」",
     "minute": "18:30",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

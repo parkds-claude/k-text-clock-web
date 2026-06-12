@@ -3,6 +3,6 @@
     "text_ko": "“그날 미시쯤 하여 도적의 배 70여 척을 고성 견내량에서 보았나이다.”",
     "display_source": "— 신채호, 「이순신전」",
     "minute": "14:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

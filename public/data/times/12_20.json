@@ -3,6 +3,6 @@
     "text_ko": "견훤이 왔다가 그냥 돌아갔다는 것을 대궐에서 안 것은 그 이튿날 오정이 거의 되어서였다.",
     "display_source": "— 윤백남, 「후백제비화」",
     "minute": "12:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

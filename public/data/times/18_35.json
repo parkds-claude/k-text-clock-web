@@ -3,6 +3,6 @@
     "text_ko": "옳지 벌써 이밤도 황혼이 지난 모양이로구나 박어사는 담뱃대를 물고 앉아서 내일 촉석루를 습격할 작전계획 을 세우고 있었다.",
     "display_source": "— 차상찬, 「급수기와박어사」",
     "minute": "18:30",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

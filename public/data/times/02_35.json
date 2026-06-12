@@ -3,6 +3,6 @@
     "text_ko": "그리고 창호는 매일 간다구에 있는 순애의 거처에 찾아가 자정이 넘도록 둘이 소곤소곤하며 이야기를 한다.",
     "display_source": "— 임노월, 「위선자」",
     "minute": "00:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

@@ -3,6 +3,6 @@
     "text_ko": "도 (벽시계를 보고) 무얼 아직 열 시 반인데요.",
     "display_source": "— 홍사용, 「할미꽃」",
     "minute": "10:30",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

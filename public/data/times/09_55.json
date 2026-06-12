@@ -3,6 +3,6 @@
     "text_ko": "그는 발을 돌이켜 창경원 앞길의 정적을 버리고 종로통의 열시로 다시 향하게 되었다.",
     "display_source": "— 이익상, 「광란」",
     "minute": "10:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

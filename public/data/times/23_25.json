@@ -3,6 +3,6 @@
     "text_ko": "그래 나중에는 설화집에나 있나 하고 저녁도 먹지 않은 몸으로 8시나 되어서 설화의 집에 찾아왔다.",
     "display_source": "— 나도향, 「환희」",
     "minute": "20:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

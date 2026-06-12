@@ -3,6 +3,6 @@
     "text_ko": "내가 영희궁을 찾아간 것은 황혼이었다. 진오위장은 마루 끝에 나와서 물끄러미 나를 바라보더니,",
     "display_source": "— 김구, 「백범일지」",
     "minute": "18:30",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

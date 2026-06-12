@@ -3,6 +3,6 @@
     "text_ko": "오후 1시쯤 해서야 중국 사람들의 입으로 홍구 공원에서 누가 폭탄을 던져서 일인이 많이 죽었다고 술렁술렁하기 시작했다.",
     "display_source": "— 김구, 「백범일지」",
     "minute": "13:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

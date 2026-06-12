@@ -3,6 +3,6 @@
     "text_ko": "새벽녘 찬바람이 방고래 빠진 곳으로 들이치더니 가난이 똑똑 듣는 등피 없는 석유 등불이 툭 꺼졌더라.",
     "display_source": "— 이인직, 「귀의 성」",
     "minute": "05:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

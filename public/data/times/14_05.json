@@ -3,6 +3,6 @@
     "text_ko": "무대는 병원 응접실이 되고, 그곳에 적당한 교의와 책상 등물이 놓였으며, 대문 문패에는 공소사병원이라는 간판이 붙어 있고, 시각은 오후 사시 쯤 되었다.",
     "display_source": "— 조중환, 「병자삼인」",
     "minute": "16:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]
