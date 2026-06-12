@@ -1,24 +1,35 @@
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+K-Text Clock — 라이선스 안내
 
-Copyright (c) 2026 K-Text Clock Contributors
+이 저장소는 코드와 데이터에 서로 다른 라이선스를 적용합니다.
 
-이 저작물에 포함된 인용구는 모두 저작권 만료(Public Domain) 저작물이며,
-한국 저작권법상 사후 70년 경과 기준을 충족한 것만 수록합니다.
+────────────────────────────────────────────────────────
 
-웹 코드(HTML/CSS/JS/Python)는 MIT License로 배포합니다.
+1. 한국문학 인용구 데이터 (data/quotes_public.json, public/data/)
+   — Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)
 
----
+   Copyright (c) 2026 K-Text Clock Contributors
 
-MIT License (코드)
+   인용구 원문은 모두 저작권 만료(Public Domain) 저작물이며, 한국 저작권법상
+   저자 사후 70년 경과 기준을 충족한 것만 수록합니다. 데이터셋(선별·시각 매핑·
+   큐레이션)은 CC BY-NC 4.0으로 배포합니다 — 출처 표기 필수, 비영리 이용에 한함.
+   PD 원문 자체의 이용은 이 라이선스로 제한되지 않습니다.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. 영문 인용구 데이터 (data/en/)
+   — quotes_en_pd.json: CC BY-NC 4.0 (원작 PD, 한국어 번역 포함)
+   — quotes_en_litclock.json: CC BY-NC-SA 2.5
+     (JohannesNE/literature-clock 데이터셋 라이선스 승계)
+   상세: data/en/README.md
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. 코드 (HTML/CSS/JS/Python) — MIT License
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
