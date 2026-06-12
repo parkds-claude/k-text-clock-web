@@ -3,6 +3,6 @@
     "text_ko": "그들은 서울서부터 폭우를 맞으며 강릉까지 밤 새로 1시쯤 하여 닿았다.",
     "display_source": "— 오장환, 「남조선의 문학예술」",
     "minute": "13:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

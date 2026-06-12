@@ -3,6 +3,6 @@
     "text_ko": "그 내용은 '오전 10시경부터 댁에 계시지 마시오. 무슨 대사건이 있을 듯합니다.' 하는 것이었다.",
     "display_source": "— 김구, 「백범일지」",
     "minute": "10:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

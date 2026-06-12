@@ -3,6 +3,6 @@
     "text_ko": "침대차에서는 밤을 세우고 눈을 뜨니 아침 일곱 시, 차는 봉천역에 머무 르고 있는 중이었다.",
     "display_source": "— 이효석, 「벽공무한」",
     "minute": "07:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

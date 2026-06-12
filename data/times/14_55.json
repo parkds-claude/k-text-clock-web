@@ -3,6 +3,6 @@
     "text_ko": "저녁 햇빛같이 애잔한 시선이다. 하룻밤 동안에 얼굴은 깎은 듯이 핼쑥해지고 빛깔이 마알갛다.",
     "display_source": "— 이효석, 「여수」",
     "minute": "13:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

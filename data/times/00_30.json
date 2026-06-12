@@ -3,6 +3,6 @@
     "text_ko": "3 밤철 밤중 한 해도 울어새는 저 머구리 하루도 그 신세를 나는 부러워합니다.",
     "display_source": "— 김소월, 「무제無題1」",
     "minute": "00:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

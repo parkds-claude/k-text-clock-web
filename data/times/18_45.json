@@ -3,6 +3,6 @@
     "text_ko": "치어다보면 서쪽 하늘엔 해가 황혼의 꿈을 태운다",
     "display_source": "— 윤곤강, 「땅김」",
     "minute": "18:30",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

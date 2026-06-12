@@ -3,6 +3,6 @@
     "text_ko": "집에 돌아오니 네 시 남짓하였다. 어머니가 내어다보시다 가 나의 얼굴을 유심히 보시며 “너 웨 어데 몸이 아프냐?",
     "display_source": "— 양건식, 「슬픈모순」",
     "minute": "04:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

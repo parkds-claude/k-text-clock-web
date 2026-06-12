@@ -3,6 +3,6 @@
     "text_ko": "그날 밤 9시경에 진섭이는 이 두 사람을 찾아왔다.",
     "display_source": "— 홍난파, 「최후의악수」",
     "minute": "21:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

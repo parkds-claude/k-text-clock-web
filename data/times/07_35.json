@@ -3,6 +3,6 @@
     "text_ko": "“벌써 여덟 시가 지났네, 늦었군. 오늘 저녁에 일곱 시부터 무슨 과장 회의가 또 있다나.",
     "display_source": "— 현진건, 「적도」",
     "minute": "08:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

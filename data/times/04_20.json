@@ -3,6 +3,6 @@
     "text_ko": "과연 새벽녘 집에 다다랐을 때쯤 하여서는 하늘 땅이 움직이도록 술이 잠 \f뿍 올랐다.",
     "display_source": "— 김유정, 「貞操정조」",
     "minute": "05:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

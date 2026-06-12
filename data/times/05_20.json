@@ -3,6 +3,6 @@
     "text_ko": "2월 26일 (월요일) 맑음 새벽 다섯시에 또 잠이 깨었다. 원수의 잠이었다.",
     "display_source": "— 노자영, 「동경시대2」",
     "minute": "05:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]

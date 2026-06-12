@@ -3,6 +3,6 @@
     "text_ko": "아랫목 벽에 걸린 구벽다리 쾌종이 여섯시를 치는 소리를 듣고는 소스라쳐 깨었다.",
     "display_source": "— 심훈, 「영원의 미소」",
     "minute": "06:00",
-    "match_type": "exact"
+    "match_type": "timeslot"
   }
 ]
